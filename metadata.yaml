@@ -13,6 +13,8 @@ creator:
 description: bk. 1. For the first year of the high school -- bk. 2. For the second
   year of the high school -- bk. 3. For the third year of the high school --bk. 4.
   For the fourth year of the high school.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21341#Practical-English-Composition--Book-II.For-the-Second-Year-of-the-High-School
 gutenberg_issued: '2007-05-06'
 gutenberg_type: Text
 identifiers:
